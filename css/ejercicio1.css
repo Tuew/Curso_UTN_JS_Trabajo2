@@ -1,0 +1,26 @@
+.cuadrado1{
+    display: inline-flex;
+    width: 125px;
+    height: 125px;
+    margin-left: 25px;
+    border: 1px solid #000;
+    background-color: blue;
+}
+
+.cuadrado2{
+    display: inline-flex;
+    width: 125px;
+    height: 125px;
+    margin-left: 25px;
+    border: 1px solid #000;
+    background-color: red;
+}
+
+.cuadrado3{
+    display: inline-flex;
+    width: 125px;
+    height: 125px;
+    margin-left: 25px;
+    border: 1px solid #000;
+    background-color: violet;
+}
